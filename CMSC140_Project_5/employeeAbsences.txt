@@ -1,0 +1,11 @@
+EMPLOYEE  ABSENCE  REPORT  
+Employee ID    Days absent 
+      1               2
+      2               4
+      3               8
+      4               1
+
+The 4 employees were absent a total of 15 days.
+The average number of days absent is 3.8 days.
+
+Programmer: Gabriel I Feliz
