@@ -5,6 +5,6 @@ Topics:
 - Conditions (if-else)
 - Loops (while, for)
 - Functions
-- File Input/Output
+- Creating and writing to a new file
 
 Date of Completion: 11/14/2017
